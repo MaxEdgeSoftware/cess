@@ -1,0 +1,6 @@
+admin login credetials
+
+
+username: admin
+
+password: Maxedge2021
